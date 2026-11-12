@@ -11,6 +11,7 @@ This case explores how to generate unique short codes at scale, how to keep redi
 ## Design documents
 
 - [Functional requirements](design/01-functional-requirements.md)
+- [Non-functional requirements](design/02-non-functional-requirements.md)
 
 ## How to run
 

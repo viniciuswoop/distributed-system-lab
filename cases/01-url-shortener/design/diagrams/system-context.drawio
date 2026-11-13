@@ -1,0 +1,71 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="G-9kx7AfP1QnMGY_Mn78">
+    <mxGraphModel dx="975" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j04eGuw90tNdYbsdxBBL-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#FFFFFF,#08427B);" value="Publisher" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="j04eGuw90tNdYbsdxBBL-63" edge="1" parent="1" source="j04eGuw90tNdYbsdxBBL-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;curveGeometry=1;" target="j04eGuw90tNdYbsdxBBL-48">
+          <mxGeometry relative="1" x="0.1491" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j04eGuw90tNdYbsdxBBL-68" edge="1" parent="1" source="j04eGuw90tNdYbsdxBBL-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;curved=1;curveGeometry=1;" target="j04eGuw90tNdYbsdxBBL-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j04eGuw90tNdYbsdxBBL-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#FFFFFF,#08427B);" value="Visitor" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="j04eGuw90tNdYbsdxBBL-66" edge="1" parent="1" source="j04eGuw90tNdYbsdxBBL-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;curved=1;curveGeometry=1;" target="j04eGuw90tNdYbsdxBBL-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j04eGuw90tNdYbsdxBBL-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#FFFFFF,#1168BD);" value="url-shortener" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="j04eGuw90tNdYbsdxBBL-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#FFFFFF,#999999);" value="website" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="j04eGuw90tNdYbsdxBBL-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Redirects" vertex="1">
+          <mxGeometry height="30" width="80" x="440" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="j04eGuw90tNdYbsdxBBL-57" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;System context&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="60" width="265" x="240" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="j04eGuw90tNdYbsdxBBL-61" edge="1" parent="1" source="j04eGuw90tNdYbsdxBBL-46" style="endArrow=classic;html=1;rounded=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;" target="j04eGuw90tNdYbsdxBBL-48" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.2149" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="190" />
+              <mxPoint x="260" y="210" />
+            </Array>
+            <mxPoint x="110" y="240" as="sourcePoint" />
+            <mxPoint x="290" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j04eGuw90tNdYbsdxBBL-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=15;" value="shorten url" vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="j04eGuw90tNdYbsdxBBL-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-15;" value="open shorten link" vertex="1">
+          <mxGeometry height="30" width="100" x="160" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="j04eGuw90tNdYbsdxBBL-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-10;" value="302" vertex="1">
+          <mxGeometry height="20" width="100" x="210" y="360.17" as="geometry" />
+        </mxCell>
+        <mxCell id="j04eGuw90tNdYbsdxBBL-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="follows redirect" vertex="1">
+          <mxGeometry height="30" width="100" x="150" y="440" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
